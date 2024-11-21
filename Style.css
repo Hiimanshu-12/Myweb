@@ -3,12 +3,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 10px;
     padding: 2px;
-    background-color: lightpink;
-    color: darkgray;
+    background-color: powderblue;
+    color: black;
 }
 
 h1, h2, h3 {
-    color:blue;
+    color:skyblue;
 }
 
 a {
