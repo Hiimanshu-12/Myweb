@@ -1,8 +1,8 @@
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial;
     margin: 10px;
-    padding: 2px;
+    padding: 0;
     background-color: powderblue;
     color: black;
 }
@@ -22,8 +22,8 @@ ul {
 }
 
 header {
-    background-color:darkgreen;
-    color: white;
+    background-color:white;
+    color:darkblack;
     padding: 15px 0;
     text-align: center;
 }
@@ -44,7 +44,7 @@ header nav ul li a {
 }
 
 footer {
-    background-color: darkgreen;
+    background-color:navyblue;
     color: white;
     text-align: center;
     padding: 10px;
