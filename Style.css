@@ -10,6 +10,12 @@ body {
 h1, h2, h3 {
     color:skyblue;
 }
+#header{
+    background-image:back.jpg('background-image.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
 
 a {
     text-decoration:none;
