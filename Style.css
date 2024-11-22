@@ -6,10 +6,15 @@ body {
     background-color: powderblue;
     color: black;
 }
+h1{
+    color:white;
+    background-image: back.jpg('your-image.jpg'); background-size: cover; background-position: center; background-repeat:no-repeat;
+  
+}
 
-h1, h2, h3 {
-    color:skyblue;
-    background-color:white;
+h2, h3 {
+    color:white;
+    background-color:navyblue;
 }
 #header{
     background-image:back.jpg('background-image.jpg');
