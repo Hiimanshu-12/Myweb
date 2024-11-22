@@ -9,6 +9,7 @@ body {
 
 h1, h2, h3 {
     color:skyblue;
+    background-color:white;
 }
 #header{
     background-image:back.jpg('background-image.jpg');
